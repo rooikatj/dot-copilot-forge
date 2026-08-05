@@ -1,5 +1,6 @@
 ---
 name: iac-preflight
+version: 0.0.1
 description: >-
   Prove a Terraform change is safe to merge by testing it against the dev
   environment's real state, not just reading it. Runs a locked, refreshed plan

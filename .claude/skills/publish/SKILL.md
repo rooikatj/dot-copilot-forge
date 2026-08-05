@@ -1,5 +1,6 @@
 ---
 name: publish
+version: 0.0.1
 description: Sanitize-and-push workflow for this repo. Use before pushing any change to master — this repo is public with no PR review gate, so this skill is the review gate. Fires on "publish", "push to forge", "ship this", or before any git push in this repo.
 ---
 

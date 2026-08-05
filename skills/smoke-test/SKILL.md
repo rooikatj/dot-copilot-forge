@@ -1,5 +1,6 @@
 ---
 name: smoke-test
+version: 0.0.1
 description: >-
   Two-speed check of what's loaded in this Copilot CLI session. Default
   (light) mode: a table of every skill loaded, grouped by source level
