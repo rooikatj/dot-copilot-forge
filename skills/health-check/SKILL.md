@@ -1,5 +1,6 @@
 ---
 name: health-check
+version: 0.0.1
 description: >-
   Quick, cursory sanity check of this Copilot home — confirms skills and
   agents are actually loaded in the current session, without the full
